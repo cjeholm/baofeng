@@ -1,4 +1,4 @@
-# baofeng
+# Baofeng
 My Baofeng 5R channels for Sweden
 
 ```
