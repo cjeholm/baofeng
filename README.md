@@ -1,5 +1,5 @@
 # baofeng
-My Baofeng 5R channels
+My Baofeng 5R channels for Sweden
 
 ```
 0	LPD	1	433.075000		0.000000		88.5	88.5	23	NN	23	Tone->Tone	FM	5.00	S	4.0W
