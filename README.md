@@ -1,7 +1,7 @@
 # baofeng
 My Baofeng 5R channels
 
-'''
+```
 0	LPD	1	433.075000		0.000000		88.5	88.5	23	NN	23	Tone->Tone	FM	5.00	S	4.0W
 1	LPD	2	433.100000		0.000000		88.5	88.5	23	NN	23	Tone->Tone	FM	5.00	S	4.0W
 2	LPD	3	433.125000		0.000000		88.5	88.5	23	NN	23	Tone->Tone	FM	5.00	S	4.0W
@@ -96,4 +96,4 @@ My Baofeng 5R channels
 93	JAKT	7	156.450000		0.000000		88.5	88.5	23	NN	23	Tone->Tone	NFM	5.00		4.0W
 95	SEA	ANR	156.800000		0.000000		88.5	88.5	23	NN	23	Tone->Tone	FM	5.00	S	4.0W
 97	NTRPT-4		434.812500	-0	2.000000	Tone	77.0	88.5	23	NN	23	Tone->Tone	NFM	5.00		4.0W
-'''
+```
